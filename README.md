@@ -18,4 +18,13 @@ Double-click a `.md` file in Finder and land on that exact note in Obsidian, not
 
 ---
 
+#### Play
+
+**[endless-loop-music](https://github.com/JonasJoe233/endless-loop-music)** · Web Audio · JavaScript\
+Why Balatro's music never feels like a loop, rebuilt from the source in your browser. Plus a zero-dependency module that gives your homepage music that bends as you move the mouse.\
+小丑牌的音乐为什么听不腻：对照源码在浏览器里复刻，附一个给个人主页用的小模块。\
+→ [▶ Play / 试玩](https://jonasjoe233.github.io/endless-loop-music/demos/balatro.html)
+
+---
+
 Find me on [X @JonasJoe233](https://x.com/JonasJoe233)
